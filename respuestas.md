@@ -1,0 +1,2 @@
+<h1>Ejercicio 1</h1>
+Para este primer ejercicio primero he introducido el archivo en el proyecto Maven previamente creado, he comentado la clase, y después he aplicado el proceso para generar la documentación. Primero he editado el Pom, después compilado con el comando "mvn compile", y por último generado la documentación con "mvn javadoc:javadoc".
